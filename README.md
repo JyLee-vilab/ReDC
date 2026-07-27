@@ -16,7 +16,7 @@ Official PyTorch implementation of **“Rethinking Detection Calibration: A Coor
 [Seungjin Jung](https://sites.google.com/vilab.cau.ac.kr/sjjung)<sup>1</sup>,
 [Jungmin Lee](https://sites.google.com/vilab.cau.ac.kr/jungminleeshomepage/home?authuser=0)<sup>2</sup>,
 [Sunju Lee](https://sites.google.com/vilab.cau.ac.kr/lsjoo/%ED%99%88)<sup>1</sup>,
-and [Jongwoo Choi](https://sites.google.com/site/jwchoivision/home)<sup>1,2,3,*</sup>
+and [Jongwoo Choi](https://www.vilab.cau.ac.kr/home)<sup>1,2,3,*</sup>
 
 <sup>1</sup> Dept. of AI, Chung-Ang University, Republic of Korea  
 <sup>2</sup> Dept. of Advanced Imaging, GSAIM, Chung-Ang University, Republic of Korea  
