@@ -77,10 +77,10 @@ Organize the files as follows:
 
 ```text
 data/
-├── gt_val.json
-├── pred_val.pkl
-├── gt_test.json
-└── pred_test.pkl
+├── val_gt.json
+├── val_pred.pkl
+├── test_gt.json
+└── test_pred.pkl
 ```
 
 Also, each detector prediction should include:
