@@ -7,7 +7,7 @@ Official PyTorch implementation of **“Rethinking Detection Calibration: A Coor
 </p>
 
 <p align="center">
-  <img src="/workspace/ReDC/assets/images/fig.png" width="95%">
+  <img src="assets/images/fig.png" width="95%">
 </p>
 
 ## Authors
